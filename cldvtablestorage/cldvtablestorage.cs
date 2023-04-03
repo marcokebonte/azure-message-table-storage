@@ -31,7 +31,7 @@ namespace cldvtablestorage
         static string reverseMessage = "";
 
 
-
+        //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         static void Main(string[] args)
         {
 
@@ -86,6 +86,11 @@ namespace cldvtablestorage
         }
 
 
+
+
+
+
+        //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
         public static void normalInput()
         {
             Console.WriteLine("Enter your ID(Passport) number: ");
@@ -110,7 +115,7 @@ namespace cldvtablestorage
 
 
 
-
+        //------------------------------------------------------------------------------------------------------------------------
         public static void ReverseInput()
         {
 
@@ -135,7 +140,7 @@ namespace cldvtablestorage
 
 
 
-
+        //--------------------------------------------------------------------------------------------------------------------------------------------------------------
         public static async Task MergeUser(CloudTable table, RecipientEntity recipient)
         {
             TableOperation insertOrMergeOperation = TableOperation.InsertOrMerge((Microsoft.Azure.Cosmos.Table.ITableEntity)recipient);
@@ -149,7 +154,7 @@ namespace cldvtablestorage
 
 
 
-
+        //-------------------------------------------------------------------------------------------------------------------------------------------------------------
         public static async Task QueryUser(CloudTable table, string Name, string age)
         {
             TableOperation retrieveOperation = TableOperation.Retrieve<RecipientEntity>(Name, age);
@@ -165,7 +170,7 @@ namespace cldvtablestorage
         }
 
 
-
+        //--------------------------------------------------------------------------------------------------------------------------------------------------------------
         public class RecipientEntity : TableEntity
         {
             public RecipientEntity() { }
@@ -184,9 +189,11 @@ namespace cldvtablestorage
 
 
         }
+        //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
     }
 }
+//-------------------------------------------------------------------------------oooo0000End Of File0000oooo---------------------------------------------------------------------------------------------------
 

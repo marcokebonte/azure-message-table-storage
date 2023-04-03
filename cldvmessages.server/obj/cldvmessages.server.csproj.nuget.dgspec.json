@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvmessages.server\\cldvmessages.server.csproj": {}
+    "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvmessages.server\\cldvmessages.server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvmessages.server\\cldvmessages.server.csproj": {
+    "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvmessages.server\\cldvmessages.server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvmessages.server\\cldvmessages.server.csproj",
+        "projectUniqueName": "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvmessages.server\\cldvmessages.server.csproj",
         "projectName": "cldvmessages.server",
-        "projectPath": "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvmessages.server\\cldvmessages.server.csproj",
+        "projectPath": "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvmessages.server\\cldvmessages.server.csproj",
         "packagesPath": "C:\\Users\\dkebo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvmessages.server\\obj\\",
+        "outputPath": "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvmessages.server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dkebo\\AppData\\Roaming\\NuGet\\NuGet.Config",

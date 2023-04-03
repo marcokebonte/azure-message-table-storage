@@ -7330,11 +7330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvtablestorage\\cldvtablestorage.csproj",
+      "projectUniqueName": "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvtablestorage\\cldvtablestorage.csproj",
       "projectName": "cldvtablestorage",
-      "projectPath": "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvtablestorage\\cldvtablestorage.csproj",
+      "projectPath": "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvtablestorage\\cldvtablestorage.csproj",
       "packagesPath": "C:\\Users\\dkebo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvtablestorage\\obj\\",
+      "outputPath": "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvtablestorage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dkebo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7351,8 +7351,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvmessages\\cldvmessages.csproj": {
-              "projectPath": "C:\\Users\\dkebo\\Documents\\Visual Studio 2022\\cldvmessages\\cldvmessages\\cldvmessages.csproj"
+            "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvmessages\\cldvmessages.csproj": {
+              "projectPath": "C:\\Users\\dkebo\\Source\\Repos\\marcokebonte\\azure-message-table-storage\\cldvmessages\\cldvmessages.csproj"
             }
           }
         }

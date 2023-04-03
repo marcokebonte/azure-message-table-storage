@@ -19,6 +19,12 @@ namespace cldvmessages
 
 
 
+
+
+
+
+
+        //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         public void MessQueueNormal(string IDi, string VacCentrei, string VacDatei, string VacSeriali)
         {
             var storageAccount = new CloudStorageAccount(
@@ -58,6 +64,10 @@ namespace cldvmessages
 
 
 
+
+
+
+        //--------------------------------------------------------------------------------------------------------------------------------------------------------
         public void MessQueueReverse(string IDu, string VacCentreu, string VacDateu, string VacSerialu)
         {
             var storageAccount = new CloudStorageAccount(
@@ -94,9 +104,14 @@ namespace cldvmessages
             }
 
         }
+        //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
     }
 
 
 
     
 }
+//-------------------------------------------------------oooo0000End OF File0000oooo--------------------------------------------------------------------------------------
